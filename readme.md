@@ -11,4 +11,4 @@ A simple application I created to gain a better understanding of how images are 
 
 ### Requires
 
-- [-JavaFx 8](http://javafx.com/javafx/8)
+- [JavaFx 8](http://javafx.com/javafx/8)
