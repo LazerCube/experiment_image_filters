@@ -38,7 +38,8 @@ public class Controller {
     @FXML private LineChart<Number, Number> blue_histogram_chart;
     @FXML private LineChart<Number, Number> brightness_histogram_chart;
 
-    private final static String fileName = "berries.jpg";
+//    private final static String fileName = "berries.jpg";
+    private final static String fileName = "raytrace.jpg";
 
     private Image orgImage;
 
